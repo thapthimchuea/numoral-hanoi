@@ -1,0 +1,7 @@
+{
+ "note": "งวดหวยฮานอยปกติ (XSMB) ที่ GitHub Actions ดึงมาให้หลังวันที่ใน since (d = วันที่ ค.ศ. YYYYMMDD, n = รางวัลพิเศษ 5 หลัก, b = 2 ตัวท้ายรางวัลที่ 1) · ข้อมูลก่อนหน้านั้นฝังอยู่ใน app.js แล้ว",
+ "since": "20261118",
+ "updatedAt": null,
+ "lastCheck": null,
+ "draws": []
+}

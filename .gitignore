@@ -1,0 +1,7 @@
+_archive/
+_incoming/
+scripts/*-report.txt
+node_modules/
+*.bat
+*.log
+_wf_unused/
